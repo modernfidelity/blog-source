@@ -5,7 +5,7 @@ title = "modernfidelity studios"
 theme = "mofi1"
 
 preserveTaxonomyNames = true
-Paginate = 1
+Paginate = 5
 
 [taxonomies]
   category = "categories"
