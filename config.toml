@@ -1,5 +1,5 @@
 builddrafts = false
-baseurl = "http://modernfidelity.github.io/"
+baseurl = "https://modernfidelity.github.io/"
 languageCode = "en-uk"
 title = "modernfidelity studios"
 theme = "mofi1"
