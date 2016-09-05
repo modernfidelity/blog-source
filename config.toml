@@ -1,7 +1,7 @@
 builddrafts = false
 baseurl = "http://modernfidelity.github.io/"
 languageCode = "en-uk"
-title = "Mofi Blog"
+title = "modernfidelity studios"
 theme = "mofi1"
 
 preserveTaxonomyNames = true
@@ -11,5 +11,5 @@ preserveTaxonomyNames = true
   tag = "tags"
 
 [params]
-  description = "Tech blog made of awesome"
+  description = "Tech blog"
   author = "Mark Rushton"
