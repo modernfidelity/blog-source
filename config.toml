@@ -5,6 +5,7 @@ title = "modernfidelity studios"
 theme = "mofi1"
 
 preserveTaxonomyNames = true
+Paginate = 1
 
 [taxonomies]
   category = "categories"
@@ -13,3 +14,7 @@ preserveTaxonomyNames = true
 [params]
   description = "Tech blog"
   author = "Mark Rushton"
+
+
+googleAnalytics = "UA-123-45"
+disqusShortname = "XYW"
