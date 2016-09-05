@@ -9,6 +9,10 @@
 			      {{ .Content }}
 			</div>
 
+
+
+            <h4>Tags</h4>
+
 			<ul id="tags">
 				{{ range .Params.tags }}
 				<li><a href="{{ "/tags/" | relURL }}{{ . | urlize }}">{{ . }}</a> </li>
@@ -16,7 +20,7 @@
 			</ul>
 
 			{{ if and (isset .Site.Params "disqusShortname") (ne .Site.Params.disqusShortname "") }}
-				<h2>Comments</h2>
+				<h4>Comments</h4>
 				{{ partial "disqus" . }}
 			{{ end }}
 		</div>

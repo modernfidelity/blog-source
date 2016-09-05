@@ -359,6 +359,11 @@ tbody tr:nth-child(odd) th {
  * there are no more previous or next posts to show.
  */
 
+.pagination li {
+  display: inline-block;
+}
+
+
 .pagination {
   overflow: hidden; /* clearfix */
   margin-left: -1rem;
