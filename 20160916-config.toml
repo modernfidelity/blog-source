@@ -1,0 +1,20 @@
+builddrafts = false
+baseurl = "https://modernfidelity.github.io/"
+languageCode = "en-uk"
+title = "modernfidelity studios"
+theme = "mofi1"
+
+preserveTaxonomyNames = true
+Paginate = 5
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[params]
+  description = "Tech blog"
+  author = "Mark Rushton"
+
+
+googleAnalytics = "UA-123-45"
+disqusShortname = "XYW"
