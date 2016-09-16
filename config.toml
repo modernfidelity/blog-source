@@ -1,6 +1,6 @@
 baseurl = "https://modernfidelity.github.io/"
 languageCode = "en-us"
-title = "Hugo Future Imperfect"
+title = "modernfidelity studios"
 theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
 paginate = 3
@@ -11,16 +11,16 @@ googleAnalytics = ""
     # Sets the meta tag description, usually reserved for the main page
     description          = "HTML5 UP theme, Future Imperfect with some extra goodies, ported by Julio Pescador. Powered by Hugo"
     # This will appear on the top left of the navigation bar
-    navbarTitle          = "Future Imperfect"
+    navbarTitle          = "modernfidelity studios"
     # Social media buttons that appear on the sidebar
-    socialAppearAtTop    = true
+    socialAppearAtTop    = false
     socialAppearAtBottom = true
     # set this to the section name if section is not post
     viewMorePostLink     = "/blog/"
 
 # Optional Params
     categoriesByCount    = true
-    includeReadingTime   = true
+    includeReadingTime   = false
     # The set of favicons used are based on the write-up from this link:
     # https://github.com/audreyr/favicon-cheat-sheet
     # Please see the favicon partial template for more information
@@ -43,9 +43,9 @@ googleAnalytics = ""
 # parms.intro will appear on the sidebar
 # This is optional, but it's suggested to use
 [params.intro]
-    header    = "Hugo Future Imperfect"
+    header    = ""
 
-    paragraph = "Another fine responsive site template by <a href=\"http://html5up.net\">HTML5 UP</a>. Ported by Julio Pescador with some extra goodies <i class='fa fa-hand-peace-o'></i>"
+    paragraph = "Technical blog and general memory dump for all things web"
 
     about     = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tellus lacus, auctor vehicula molestie quis, tempor quis velit. Quisque in quam ac leo efficitur vulputate. Phasellus ullamcorper aliquam sodales. Maecenas sit amet condimentum ipsum. Proin sit amet ligula elit. Mauris."
 
