@@ -4,8 +4,8 @@ title = "modernfidelity studios"
 theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
 paginate = 3
-disqusShortname = "shortname"
-googleAnalytics = ""
+disqusShortname = "modernfidelitystudios"
+googleAnalytics = "UA-65906247-1"
 
 [params]
     # Sets the meta tag description, usually reserved for the main page
