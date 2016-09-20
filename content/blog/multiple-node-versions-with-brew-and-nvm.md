@@ -23,7 +23,7 @@ Make sure you have [Homebrew](http://brew.sh/) installed and then run the follow
     mkdir ~/.nvm
     
     
-Then in particular shell of choice i.e. .bash_profile or .profile etc add : 
+Then in particular shell of choice i.e. .bash_profile add : 
     
     export NVM_DIR="$HOME/.nvm"
     source $(brew --prefix nvm)/nvm.sh
@@ -31,7 +31,7 @@ Then in particular shell of choice i.e. .bash_profile or .profile etc add :
     
 Update your current session to run the changes : 
      
-     source ~/.profile 
+     source ~/.bash_profile 
      
 Now, you can install node :
      
